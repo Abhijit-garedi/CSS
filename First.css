@@ -1,1 +1,17 @@
-/* CSS stands for cascading Style sheet. It is used to style HTML elements. CSS can be used to change the color, font, size, and layout of HTML elements. CSS can be added to HTML in three ways:  */
+.red-color {
+  background-color: red;
+  text-align: center;
+  font-size: 20px;
+  font-style: inherit;
+}
+
+.large-text {
+  font-size: 15px;
+  font-family: monospace;
+  background-color: chartreuse;
+}
+
+#font.style {
+  font-style: italic;
+  color: coral;
+}
